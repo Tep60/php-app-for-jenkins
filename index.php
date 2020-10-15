@@ -25,7 +25,7 @@ else
     <section class="congratulations">
         <h1>Congratulations!</h1>
         <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
-		<img src="nikeid1.jpg" alt="Nike" width="500" height="600">
+		<img src="nikeid3.jpg" alt="Nike" width="600" height="600">
         <p>You are running PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
     </section>
